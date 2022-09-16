@@ -4,7 +4,7 @@
 
 >Trilha Explorer
 
-Projeto contruido do evendo 
+Projeto construido do evendo 
 Next Level Week da Rockerseat
 
 [🔗 Clique aqui para acessar](https://gabrielmeno.github.io/nlw)
